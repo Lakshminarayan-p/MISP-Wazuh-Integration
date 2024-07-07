@@ -1,0 +1,1 @@
+# MISP-Wazuh-Integration
