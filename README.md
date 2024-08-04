@@ -64,7 +64,9 @@ python3 integration.py >> /var/log/misp-wazuh-integration.log &
  - Socket connection validation for Wazuh and MISP
 
 
-### Output - Success
+### Example Output:
+
+Upon running the script, you will see output similar to:
 
 ```
 17:05:50 -- Checking HTTPS Connectivity to Wazuh
@@ -77,3 +79,6 @@ python3 integration.py >> /var/log/misp-wazuh-integration.log &
 17:05:51 -- Initiating, IOC POST to Wazuh
 17:05:51 -- Imported 36 IOCs to Wazuh (Success)
 ```
+## Contact
+
+For any queries, please reach out to [Lakshmi Narayan.P](mailto:lakshminarayan15903@gmail.com).
