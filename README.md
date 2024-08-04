@@ -30,6 +30,14 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/your-repo/Wazuh-MISP-Integration.git
+cd Wazuh-MISP-Integration
+```
+Install Dependencies:
+
+Ensure Python 3 and the required libraries are installed:
+
+```bash
+pip install requests apscheduler
 ```
 
 ### Configuration:
@@ -37,7 +45,7 @@ git clone https://github.com/your-repo/Wazuh-MISP-Integration.git
 Edit the integration.py file with favourite editor and provide the following information.
 
 ```sh
-misp_auth_key = "mxVt2yZWkS39XemrgtyhbfYts7ZeeheQ50dXKLHO"
+misp_auth_key = "YOUR_MISP_AUTH_KEY"
 wazuh_auth_key = "YOUR_WAZUH_AUTH_KEY"
 wazuh_group = "YOUR_WAZUH_GROUP"
 misp_server = "IP Address of MISP Server"
