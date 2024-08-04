@@ -4,15 +4,11 @@ Integrate Wazuh with IOC (Indicators of Compromise) from MISP - Open Source Thre
 
 ## Wazuh
 
-![Wazuh Logo](https://www.wazuh.com/assets/img/wazuh_logo.png)
-
 Wazuh is an open-source security monitoring platform that provides comprehensive visibility, security monitoring, and incident response capabilities across your infrastructure. It collects and analyzes security data from endpoints, servers, and cloud environments to detect threats and vulnerabilities.
 
 Using advanced analytics and machine learning, Wazuh can automatically detect anomalous and malicious activities, identify and group related events, and generate prioritized alerts to help security teams focus on the most critical threats.
 
 ## MISP
-
-![MISP Logo](https://www.misp-project.org/misp-wordpress/wp-content/uploads/2020/11/misp-logo.png)
 
 The MISP threat sharing platform is a free and open-source software helping information sharing of threat intelligence, including cyber security indicators.
 
